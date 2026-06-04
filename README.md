@@ -1,4 +1,4 @@
-# Meme Kanseri Sınıflandırma Projesi (Deep Learning)
+# Meme Kanseri Sınıflandırma Projesi
 
 ## Proje Hakkında
 Bu proje, meme kanseri histopatoloji görüntülerinin derin öğrenme yöntemleri kullanılarak sınıflandırılmasını amaçlamaktadır. Çalışmada modern Vision Transformer mimarileri olan **DeiT (Data-efficient Image Transformer)** ve **Swin Transformer** modelleri kullanılmıştır.
