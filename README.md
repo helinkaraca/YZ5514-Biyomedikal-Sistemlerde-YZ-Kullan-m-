@@ -38,8 +38,7 @@ Modeller aşağıdaki metrikler ile değerlendirilmiştir:
 - Recall (Duyarlılık)
 - F1-score
 - AUC (ROC eğrisi altında kalan alan)
-- Dice Skoru
-- IoU (Intersection over Union)
+
 
 ---
 
